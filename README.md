@@ -1,6 +1,4 @@
-[![Faisal Ramdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalramdan17&include_all_commits=true&count_private=true&show_icons=true&hide=prs)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
-
-[![Faisal Ramdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalramdan17&include_all_commits=false&count_private=false&show_icons=true&hide=prs)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
+[![Faisal Ramdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalramdan17&count_private=true&show_icons=true&hide=prs,contribs)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
 
 ### Hi there, I'm Ramdan from [Coding Your Life](https://www.codingyourlife.id)!! 👋
 
