@@ -25,7 +25,7 @@ You also can find me at :
 - Apotekmart [Before](http://www.apotekmart.com/) - [After](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Ongoing ) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faisalramdan17&repo=car_rental_lite)](https://github.com/faisalramdan17/car_rental_lite)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalramdan17&hide=html,css,php,blade&langs_count=4&layout=compact&theme=graywhite&bg_color=#161b22,#0c0f13)](https://github.com/faisalramdan17)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalramdan17&hide=html,css,blade&langs_count=6&layout=compact&theme=graywhite&bg_color=#161b22,#0c0f13)](https://github.com/faisalramdan17)
 
 <b>Thank You for Visiting</b>
 
