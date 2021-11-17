@@ -26,8 +26,7 @@ You also can find me at :
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faisalramdan17&repo=car_rental_lite)](https://github.com/faisalramdan17/car_rental_lite) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalramdan17&count_private=true&show_icons=true&hide=contribs,prs,issues)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalramdan17&hide=html,css,blade&langs_count=4&layout=compact&theme=graywhite&bg_color=#161b22,#0c0f13)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalramdan17&count_private=true&show_icons=true&hide=contribs,prs)](https://www.youtube.com/CodingYourLife?sub_confirmation=1) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalramdan17&hide=html,css,blade&langs_count=4&layout=compact&theme=graywhite&bg_color=#161b22,#0c0f13)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
 
 <b>Thank You for Visiting</b>
 
