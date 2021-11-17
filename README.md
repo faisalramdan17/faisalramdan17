@@ -1,4 +1,4 @@
-[![Faisal Ramdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalramdan17&count_private=true&show_icons=true&hide=prs,contribs)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
+[![Faisal Ramdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalramdan17&count_private=true&show_icons=true&hide=prs)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
 
 ### Hi there, I'm Ramdan from [Coding Your Life](https://www.codingyourlife.id)!! 👋
 
@@ -18,7 +18,9 @@ You also can find me at :
 
 <br/>
 
-<!-- Projects reviews that I touch with my cold hands 😄 :
+<!-- contribs
+
+Projects reviews that I touch with my cold hands 😄 :
 - [Bicaraprint](http://phplaravel-478346-1675448.cloudwaysapps.com/) ( HOLD )
 - [SREA](http://phplaravel-478346-1761094.cloudwaysapps.com/) ( Finish )
 - [Cryptown](http://phplaravel-478346-1761820.cloudwaysapps.com/) ( Finish )
