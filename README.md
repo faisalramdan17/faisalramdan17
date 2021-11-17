@@ -1,16 +1,19 @@
 ### Hi there, I'm Ramdan from [Coding Your Life](https://www.codingyourlife.id)!! 👋
-For Digital name : Ikziriv
+For Digital name : faisalramdan17
 
 - 🔭 I’m currently working as a Flutter Developer & Video Editor ( 80% Flutter / 20% Editor )
 - 🌱 I’m currently deep learning about Flutter, Firebase, Final Cut Pro.
-- 👯 I’m looking to collaborate on design about Tailwind CSS, for backend about Laravel
+- 👯 I’m looking to collaborate on coding about Flutter
 - 💬 Ask me about anything related to Flutter, Firebase, and Final Cut Pro
 - 📫 Reach out to me directly through on instagram [faisalramdan17](https://www.instagram.com/faisalramdan17)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The front view of an application is much more pleasing to the eye than the back of the application.
 
 You also can find me at :
-- [Youtube](https://www.youtube.com/CodingYourLife?sub_confirmation=1) - [LinkedIn](https://www.linkedin.com/in/faisalramdan17) - [Codecanyon](https://codecanyon.net/user/codingyourlife/portfolio) - [Medium](codingyourlife.medium.com)
+- [Youtube](https://www.youtube.com/CodingYourLife?sub_confirmation=1) 
+- [LinkedIn](https://www.linkedin.com/in/faisalramdan17) 
+- [Codecanyon](https://codecanyon.net/user/codingyourlife/portfolio) 
+- [Medium](codingyourlife.medium.com)
 
 <!-- Projects reviews that I touch with my cold hands 😄 :
 - [Bicaraprint](http://phplaravel-478346-1675448.cloudwaysapps.com/) ( HOLD )
