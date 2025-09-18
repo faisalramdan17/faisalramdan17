@@ -6,6 +6,8 @@
   </div>
 <a/>
 
+<br/><br/>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faisalramdan17&repo=car_rental_lite&show_owner=true)](https://github.com/faisalramdan17/car_rental_lite)
 
 
