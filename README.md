@@ -1,5 +1,7 @@
 [![Faisal Ramdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalramdan17&count_private=true&show_icons=true&hide=prs,contribs)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanArman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" />
+
 ### Hi there, I'm Ramdan from [Coding Your Life](https://www.codingyourlife.id)!! 👋
 
 - 🔭 I’m currently working as a Flutter Developer & Video Editor ( 80% Flutter / 20% Editor )
