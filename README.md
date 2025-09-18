@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalramdan17&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=faisalramdan17&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" alt="Raihan Arman GitHub Stats" /
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=faisalramdan17&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" alt="Raihan Arman GitHub Stats" />
 
 ### Hi there, I'm Ramdan from [Coding Your Life](https://www.codingyourlife.id)!! 👋
 
