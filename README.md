@@ -6,8 +6,8 @@
   </div>
 <a/>
 
-<br/><br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faisalramdan17&repo=car_rental_lite&show_owner=true)](https://github.com/faisalramdan17/car_rental_lite)
+
 
 ### Hi there, I'm Ramdan from [Snap Code Channel](https://www.youtube.com/@WithSnapCode?sub_confirmation=1)!! 👋
 
@@ -20,7 +20,7 @@
 - ⚡ Fun fact: The front view of an application is much more pleasing to the eye than the back of the application.
 
 You also can find me at :
-- [Youtube](https://www.youtube.com/CodingYourLife?sub_confirmation=1) 
+- [Youtube](https://www.youtube.com/@WithSnapCode?sub_confirmation=1) 
 - [LinkedIn](https://www.linkedin.com/in/faisalramdan17) 
 - [Codecanyon](https://codecanyon.net/user/codingyourlife/portfolio) 
 - [Medium](codingyourlife.medium.com)
@@ -36,12 +36,13 @@ Projects reviews that I touch with my cold hands 😄 :
 - Kugelmans [Before](https://www.kugelmans.com/) - [After](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Finish )
 - Apotekmart [Before](http://www.apotekmart.com/) - [After](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Ongoing ) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faisalramdan17&repo=car_rental_lite&show_owner=true)](https://github.com/faisalramdan17/car_rental_lite)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalramdan17&hide=html,css,blade&langs_count=6&layout=compact&theme=graywhite&bg_color=#161b22,#0c0f13)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
+
 
 <b>Thank You for Visiting</b>
 
 <!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faisalramdan17&repo=car_rental_lite&show_owner=true)](https://github.com/faisalramdan17/car_rental_lite)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalramdan17&hide=html,css,blade&langs_count=6&layout=compact&theme=graywhite&bg_color=#161b22,#0c0f13)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
 **faisalramdan17/welcome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with building an frontend using Tailwind CSS
