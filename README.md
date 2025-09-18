@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/@WithSnapCode?sub_confirmation=1">
+<a href="https://www.youtube.com/@WithSnapCode?sub_confirmation=1" target="blink">
   <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalramdan17&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" />
 
@@ -7,6 +7,7 @@
 <a/>
 
 <br/><br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ### Hi there, I'm Ramdan from [Snap Code Channel](https://www.youtube.com/@WithSnapCode?sub_confirmation=1)!! 👋
 
