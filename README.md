@@ -1,13 +1,13 @@
 <a href="https://www.youtube.com/@WithSnapCode?sub_confirmation=1" target="blink">
   <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=faisalramdan17&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" alt="Raihan Arman GitHub Stats" />
-
   </div>
 <a/>
 
 <br/><br/>
+<br/><br/>
 
-
+  <div>
 ### Hi there, I'm Ramdan from [Snap Code Channel](https://www.youtube.com/@WithSnapCode?sub_confirmation=1)!! 👋
 
 - 🔭 I’m currently working as a Flutter Developer & Video Editor ( 80% Flutter / 20% Editor )
@@ -38,7 +38,7 @@ Projects reviews that I touch with my cold hands 😄 :
 
 
 <b>Thank You for Visiting</b>
-
+  </div>
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faisalramdan17&repo=car_rental_lite&show_owner=true)](https://github.com/faisalramdan17/car_rental_lite)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalramdan17&hide=html,css,blade&langs_count=6&layout=compact&theme=graywhite&bg_color=#161b22,#0c0f13)](https://www.youtube.com/CodingYourLife?sub_confirmation=1)
